@@ -69,7 +69,10 @@ footer {
   width: 30%;
   margin: 20px 10px 30px;
 }
-
+.img-fluid {
+  width: 60%;
+  height: 60%;
+}
 /******************* Styles *******************/
 
 .page-title {
