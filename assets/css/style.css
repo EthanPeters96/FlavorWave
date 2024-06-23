@@ -9,14 +9,6 @@ h6 {
   color: #e07a5f;
 }
 
-.about-dis {
-  color: #e07a5f;
-}
-
-.navbar a {
-  color: #e07a5f;
-}
-
 .footer-color {
   color: #e07a5f;
 }
@@ -25,18 +17,17 @@ h6 {
   color: #e07a5f;
 }
 
-button[type="button"] {
-  margin-top: 15px;
-  margin-bottom: 15px;
-  background-color: #e07a5f;
-  color: #fafafa;
-  border: none;
-  padding: 10px 20px;
-  font-size: 16px;
-  font-weight: 300;
-  align-items: center;
+.main-color {
+  background-color: #f4f1de;
 }
 
+.navbar-brand {
+  color: #e07a5f !important;
+}
+
+.nav-link {
+  color: #e07a5f !important;
+}
 /******************* Alignment *******************/
 
 .mt-5 {
@@ -44,8 +35,8 @@ button[type="button"] {
 }
 
 .tacos1-img {
-  height: 100%;
-  width: 100%;
+  height: 70%;
+  width: 70%;
 }
 
 body {
@@ -61,14 +52,40 @@ main {
 footer {
   flex-shrink: 0;
 }
+
+.team-images {
+  display: flex;
+  justify-content: space-between;
+}
+
+.team-img {
+  flex: 1;
+  margin: 0 10px;
+  height: 50%;
+  width: 50%;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
 /******************* Styles *******************/
 
 .page-title {
-  font-size: 5rem;
+  font-size: 3rem;
   font-weight: bold;
 }
 
 .lead {
-  font-size: 1.5rem;
+  font-size: 1rem;
   color: black;
+}
+
+a[type="button"] {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  background-color: #e07a5f;
+  color: #fafafa;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 300;
+  align-items: center;
 }

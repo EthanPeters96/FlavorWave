@@ -7,9 +7,9 @@
     <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
   </head>
-  <body>
-    <nav class="navbar navbar-expand-lg bg-dark">
-      <a class="navbar-brand" href="index.html">RecipeSite</a>
+  <body class="main-color">
+    <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+      <a class="navbar-brand" href="index.html">FlavorWave</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -47,6 +47,14 @@
           </select>
         </div>
         <div class="form-group">
+          <label for="first-name">First name:</label>
+          <input type="text" class="form-control" id="first-name" required />
+        </div>
+        <div class="form-group">
+          <label for="last-name">Last name:</label>
+          <input type="text" class="form-control" id="last-name" required />
+        </div>
+        <div class="form-group">
           <label for="email">Email:</label>
           <input type="email" class="form-control" id="email" required />
         </div>
@@ -55,7 +63,7 @@
           <label for="message">Message:</label>
           <textarea class="form-control" id="message" rows="5" required></textarea>
         </div>
-        <button type="button" href="#" class="btn btn-secondary">Submit</button>
+        <a href="#" type="button" class="btn btn-secondary">Submit</a>
       </form>
     </div>
     <footer class="footer bg-dark mt-auto py-3">
