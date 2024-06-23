@@ -28,6 +28,10 @@ h6 {
 .nav-link {
   color: #e07a5f !important;
 }
+
+.names {
+  color: #e07a5f;
+}
 /******************* Alignment *******************/
 
 .mt-5 {
@@ -58,14 +62,14 @@ footer {
   justify-content: space-between;
 }
 
-.team-img {
+.team-img-1,
+.team-img-2 {
   flex: 1;
-  margin: 0 10px;
-  height: 50%;
-  width: 50%;
-  margin-top: 20px;
-  margin-bottom: 30px;
+  height: 100%;
+  width: 30%;
+  margin: 20px 10px 30px;
 }
+
 /******************* Styles *******************/
 
 .page-title {
