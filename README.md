@@ -2,50 +2,7 @@
 
 Welcome to FlavorWave, the ultimate recipe hub for young adults! Discover easy, delicious recipes that make cooking fun and accessible. From quick weeknight dinners to impressive dishes for special occasions, FlavorWave has something for everyone. Join our community and start your culinary adventure today!
 
-Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
-
----
-
-## CONTENTS
-
-- [User Experience](#user-experience-ux)
-
-  - [User Stories](#user-stories)
-
-- [Design](#design)
-
-  - [Colour Scheme](#colour-scheme)
-  - [Typography](#typography)
-  - [Imagery](#imagery)
-  - [Wireframes](#wireframes)
-
-- [Features](#features)
-
-  - [General Features on Each Page](#general-features-on-each-page)
-  - [Future Implementations](#future-implementations)
-  - [Accessibility](#accessibility)
-
-- [Technologies Used](#technologies-used)
-
-  - [Languages Used](#languages-used)
-  - [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
-
-- [Deployment & Local Development](#deployment--local-development)
-
-  - [Deployment](#deployment)
-  - [Local Development](#local-development)
-    - [How to Fork](#how-to-fork)
-    - [How to Clone](#how-to-clone)
-
-- [Testing](#testing)
-
-- [Credits](#credits)
-  - [Code Used](#code-used)
-  - [Content](#content)
-  - [Media](#media)
-  - [Acknowledgments](#acknowledgments)
-
----
+## Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
 
 ## User Experience (UX)
 
@@ -87,9 +44,7 @@ I plan on using high quailty images of food to complment the site. all my images
 
 Add the images or links for your wireframes here.
 
-There are lots of different options to create your wireframes - Code Institute students can access [Balsamiq](https://balsamiq.com/) as part of the course.
-
-Some other options include [Figma](https://www.figma.com/), [AdobeXD](https://www.adobe.com/products/xd.html), [Sketch](https://www.sketch.com/?utm_source=google&utm_medium=cpc&adgroup=uxui&device=c&matchtype=e&utm_campaign=ADDICTMOBILE_SKETCH_GAD_DG_UK_T1_ALWAYS-ON_S_TRF_PROS_BRAND&utm_term=sketch&utm_source=google&utm_medium=cpc&utm_content=TOF_BRND__generic&hsa_acc=8710913982&hsa_cam=16831089317&hsa_grp=134620695759&hsa_ad=592060065319&hsa_src=g&hsa_tgt=kwd-14921750&hsa_kw=sketch&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwr4eYBhDrARIsANPywCjRIFn93DMezYnsyE5Fic_8l8kynJtut0GYMU01TiohHjwziFtlH0gaAhteEALw_wcB) and [Mockup](https://apps.apple.com/us/app/mockup-sketch-ui-ux/id1527554407) to name just a few! Or you can even go old school and get those wireframes completed using pen and paper. Just snap an image of the completed wireframes to add the images to the README.
+I used [Balsamiq](https://balsamiq.com/) fot my wireframes.
 
 ## Features
 
@@ -103,25 +58,7 @@ The website is comprised of four pages, all are accessible from the navigation m
 
 ### General features on each page
 
-If there is a feature that appears on all pages of your site, include it here. Examples of what to include would the the navigation, a footer and a favicon.
-
-I then like to add a screenshot of each page of the site here, i use [amiresponsive](https://ui.dev/amiresponsive) which allows me to grab an image of the site as it would be displayed on mobile, tablet and desktop, this helps to show the responsiveness of the site.
-
-### Future Implementations
-
-What features would you like to implement in the future on your site? Would you like to add more pages, or create login functionality? Add these plans here.
-
-### Accessibility
-
-Be an amazing developer and get used to thinking about accessibility in all of your projects!
-
-This is the place to make a note of anything you have done with accessibility in mind. Some examples include:
-
-Have you used icons and added aria-labels to enable screen readers to understand these?
-Have you ensured your site meets the minimum contrast requirements?
-Have you chosen fonts that are dyslexia/accessible friendly?
-
-Code Institute have an amazing channel for all things accessibility (a11y-accessibility) I would highly recommend joining this channel as it contains a wealth of information about accessibility and what we can do as developers to be more inclusive.
+Each page have the same header and footer aswell as theme to complete.
 
 ## Technologies Used
 
@@ -129,15 +66,19 @@ Code Institute have an amazing channel for all things accessibility (a11y-access
 
 ### Languages Used
 
-Make a note here of all the languages used in creating your project. For the first project this will most likely just be HTML & CSS.
+Languages used HTML & CSS
 
 ### Frameworks, Libraries & Programs Used
 
-Add any frameworks, libraries or programs used while creating your project.
+Balsamiq - Used to create wireframes.
 
-Make sure to include things like git, GitHub, the program used to make your wireframes, any programs used to compress your images, did you use a CSS framework like Bootstrap? If so add it here (add the version used).
+Git - For version control.
 
-A great tip for this section is to include them as you use them, that way you won't forget what you ended up using when you get to the end of your project.
+Github - To save and store the files for the website.
+
+Bootstrap Version 4.6 - The framework for the website. Code for the navigation bar, carousel, cards and form were used and modified. Additional CSS styling was also implemented in style.css.
+
+Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
 
 ## Deployment & Local Development
 
@@ -145,7 +86,16 @@ A great tip for this section is to include them as you use them, that way you wo
 
 ### Deployment
 
-Include instructions here on how to deploy your project. For your first project you will most likely be using GitHub Pages.
+The site is deployed using GitHub Pages - [#](#).
+
+To Deploy the site using GitHub Pages:
+
+1. Login (or signup) to Github.
+2. Go to the repository for this project, [#](#).
+3. Click the settings button.
+4. Select pages in the left hand navigation menu.
+5. From the source dropdown select main branch and press save.
+6. The site has now been deployed, please note that this process may take a few minutes before the site goes live.
 
 ### Local Development
 
@@ -153,11 +103,21 @@ The local development section gives instructions on how someone else could make 
 
 #### How to Fork
 
-Place instructions on how to fork your project here.
+To fork the repository:
+
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, [#](#)
+3. Click the Fork button in the top right corner.
 
 #### How to Clone
 
-Place instructions on how to clone your project here.
+To clone the repository:
+
+1. Log in (or sign up) to GitHub.
+2. Go to the repository for this project, [#](#)
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
 
 ## Testing
 
