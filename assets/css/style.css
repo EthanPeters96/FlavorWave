@@ -78,16 +78,10 @@ footer i {
   width: 30%;
   margin: 20px 10px 30px;
 }
+
 .adjust {
   width: 55%;
   height: 55%;
-}
-
-i {
-  color: #e07a5f;
-  width: 70px;
-  height: 70px;
-  font-size: 2rem;
 }
 
 /******************* Styles *******************/
@@ -160,4 +154,16 @@ button[type="submit"] {
 .style {
   text-align: center !important;
   margin-top: 45px;
+}
+
+i {
+  color: #e07a5f;
+  width: 50px;
+  height: 10px;
+  font-size: 20px;
+  padding-bottom: 40px;
+}
+
+i:hover {
+  color: #f4f1de;
 }

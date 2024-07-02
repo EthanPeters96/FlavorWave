@@ -58,11 +58,9 @@ The website is comprised of four pages, all are accessible from the navigation m
 
 ### General features on each page
 
-Each page have the same header and footer aswell as theme to complete.
+Each page have the same header and footer aswell and theme to complete.
 
 ## Technologies Used
-
-👩🏻‍💻 View an example of a completed Technologies Used section [here](https://github.com/kera-cudmore/Bully-Book-Club#Technologies-Used)
 
 ### Languages Used
 
@@ -79,6 +77,8 @@ Github - To save and store the files for the website.
 Bootstrap Version 4.6 - The framework for the website. Code for the navigation bar, carousel, cards and form were used and modified. Additional CSS styling was also implemented in style.css.
 
 Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+
+Fontawesome - for icons
 
 ## Deployment & Local Development
 
@@ -129,13 +129,9 @@ Use this part of the README to link to your TESTING.md file - you can view the e
 
 ## Credits
 
-👩🏻‍💻 View an example of a completed Credits section [here](https://github.com/kera-cudmore/BookWorm#Credits)
+I have used previous projects to help with this project. First being UCD-resume to help build a form using bootstrap
 
-The Credits section is where you can credit all the people and sources you used throughout your project.
-
-### Code Used
-
-If you have used some code in your project that you didn't write, this is the place to make note of it. Credit the author of the code and if possible a link to where you found the code. You could also add in a brief description of what the code does, or what you are using it for here.
+I also referred to bootstrap docs to learn new ways to style my page.
 
 ### Content
 
@@ -143,8 +139,10 @@ Who wrote the content for the website? Was it yourself - or have you made the si
 
 ###  Media
 
-If you have used any media on your site (images, audio, video etc) you can credit them here. I like to link back to the source where I found the media, and include where on the site the image is used.
+All images are sourced from [Usplash](https://unsplash.com/)
 
 ###  Acknowledgments
 
-If someone helped you out during your project, you can acknowledge them here! For example someone may have taken the time to help you on slack with a problem. Pop a little thank you here with a note of what they helped you with (I like to try and link back to their GitHub or Linked In account too). This is also a great place to thank your mentor and tutor support if you used them.
+I'd like to give thanks to Graeme my mentor for the support he has given me throughout my project here is a [link](https://github.com/G-Taylor) to his github.
+
+I'd also like to thank my tutor jonathan from Nescot
