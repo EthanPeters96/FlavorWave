@@ -121,11 +121,26 @@ To clone the repository:
 
 ## Testing
 
-Start as you mean to go on - and get used to writing a TESTING.md file from the very first project!
+### Manual Testing
 
-Testing requirements aren't massive for your first project, however if you start using a TESTING.md file from your first project you will thank yourself later when completing your later projects, which will contain much more information.
+| Feature                      | Action                          | Expected result                                | Tested | Passed | Comments |
+| ---------------------------- | ------------------------------- | ---------------------------------------------- | ------ | ------ | -------- |
+| Navbar                       |                                 |                                                |        |        |          |
+| Home                         | Click on the "Home" link        | The user is redirected to the main page        | Yes    | Yes    | -        |
+| View Recipe                  | Click on the "View Recipe" link | The user is redirected to the view recipe page | Yes    | Yes    | -        |
+| Recipes                      | Click on the "Recipes" link     | The user is redirected to the recipes page     | Yes    | Yes    | -        |
+| About                        | Click on the "About" link       | The user is redirected to the about page       | Yes    | Yes    | -        |
+| Contact                      | Click on the "Contact" link     | The user is redirected to the contact page     | Yes    | Yes    | -        |
+| Footer                       |                                 |                                                |        |        |          |
+| Instagram icon in the footer | Click on the Instagram icon     | The user is redirected to the Instagram page   | Yes    | Yes    | -        |
+| Facebook icon in the footer  | Click on the Facebook icon      | The user is redirected to the Facebook page    | Yes    | Yes    | -        |
+|                              |
 
-Use this part of the README to link to your TESTING.md file - you can view the example TESTING.md file [here](milestone1-testing.md)
+### Compatability
+
+[Google Chrome](https;//google.co.uk) Manually tested on google chrome for functionality , apperance and responsivness. All features passed.
+
+### Validator
 
 ## Credits
 
