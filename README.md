@@ -138,7 +138,7 @@ To clone the repository:
 
 ### Compatability
 
-[Google Chrome](https;//google.co.uk) Manually tested on google chrome for functionality , apperance and responsivness. All features passed.
+[Google Chrome](https;//google.co.uk) Manually tested on google chrome for functionality , appearance and responsiveness. All features passed.
 
 ### Validator
 
@@ -160,4 +160,4 @@ All images are sourced from [Usplash](https://unsplash.com/)
 
 I'd like to give thanks to Graeme my mentor for the support he has given me throughout my project here is a [link](https://github.com/G-Taylor) to his github.
 
-I'd also like to thank my tutor jonathan from Nescot
+I'd also like to thank my tutor Jonathan from Nescot
