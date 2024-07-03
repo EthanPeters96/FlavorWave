@@ -136,6 +136,8 @@ To clone the repository:
 | Facebook icon in the footer  | Click on the Facebook icon      | The user is redirected to the Facebook page    | Yes    | Yes    | -        |
 |                              |
 
+The site was also tested using dev tools on Google Chrome for responsiveness
+
 ### Compatability
 
 [Google Chrome](https;//google.co.uk) Manually tested on google chrome for functionality , appearance and responsiveness. All features passed.
