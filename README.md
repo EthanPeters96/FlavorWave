@@ -2,13 +2,13 @@
 
 Welcome to FlavorWave, the ultimate recipe hub for young adults! Discover easy, delicious recipes that make cooking fun and accessible. From quick weeknight dinners to impressive dishes for special occasions, FlavorWave has something for everyone. Join our community and start your culinary adventure today!
 
-## Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
+## Add a link to the live site here
 
 ## User Experience (UX)
 
 ### Inital Discussion
 
-FlavorWave is a online recipe page that is focused towards young adults who are looking to step up there cooking game from home and create easy yet tastey meals. without breaking a sweat.
+FlavorWave is a online recipe page that is focused towards young adults who are looking to step up there cooking game from home and create easy yet tasty meals. without breaking a sweat.
 
 ### User Stories
 
@@ -23,12 +23,36 @@ FlavorWave is a online recipe page that is focused towards young adults who are 
 - I want to find out what FlavorWave is about and what i can do.
 - I want to be able to navigate the site easily.
 - I want to see all there social media links.
-- I want to be able to view site and recioes on any device im using.
+- I want to be able to view site and recipes on any device im using.
 
 #### Returning User Goals
 
-- I want to easily navigate to my favioute recipes.
+- I want to easily navigate to my favourite recipes.
 - I want to keep up to date with what new social media they post.
+
+#### Home Page
+
+![FlavorWave Home page](/assets/screenshots/home-page.jpg)
+
+#### Recipes Page
+
+![FlavorWave Recipes page](/assets/screenshots/recipes-page.jpg)
+
+#### Contact Page
+
+![FlavorWave Contact page](/assets/screenshots/contact-page.jpg)
+
+#### About Page
+
+![FlavorWave About page](/assets/screenshots/about-page.jpg)
+
+#### Carbonara Page
+
+![FlavorWave Carbonara page](/assets/screenshots/carbonara-page.jpg)
+
+#### Tacos Page
+
+![FlavorWave Tacos page](/assets/screenshots/tacos-page.jpg)
 
 ## Design
 
@@ -38,13 +62,13 @@ I used the site [coolors](https://coolors.co/palette/ccd5ae-e9edc9-fefae0-faedcd
 
 ### Imagery
 
-I plan on using high quailty images of food to complment the site. all my images are sourced from [unsplash](https://unsplash.com/images/stock)
+I plan on using high quality images of food to compliment the site, all my images are sourced from [unsplash](https://unsplash.com/images/stock).
 
 ### Wireframes
 
 Add the images or links for your wireframes here.
 
-I used [Balsamiq](https://balsamiq.com/) fot my wireframes.
+I used [Balsamiq](https://balsamiq.com/) for my wireframes.
 
 ## Features
 
@@ -58,7 +82,7 @@ The website is comprised of four pages, all are accessible from the navigation m
 
 ### General features on each page
 
-Each page have the same header and footer aswell and theme to complete.
+Each page have the same header and footer as well and theme to complete.
 
 ## Technologies Used
 
@@ -82,16 +106,14 @@ Fontawesome - for icons
 
 ## Deployment & Local Development
 
-👩🏻‍💻 View an example of a completed Deployment & Local Development section [here](https://github.com/kera-cudmore/TheQuizArms#Deployment)
-
 ### Deployment
 
 The site is deployed using GitHub Pages - [#](#).
 
 To Deploy the site using GitHub Pages:
 
-1. Login (or signup) to Github.
-2. Go to the repository for this project, [#](#).
+1. Login (or sign up) to Github.
+2. Go to the repository for this project, [FlavorWave](https://github.com/EthanPeters96/FlavorWave).
 3. Click the settings button.
 4. Select pages in the left hand navigation menu.
 5. From the source dropdown select main branch and press save.
@@ -106,7 +128,7 @@ The local development section gives instructions on how someone else could make 
 To fork the repository:
 
 1. Log in (or sign up) to Github.
-2. Go to the repository for this project, [#](#)
+2. Go to the repository for this project, [FlavorWave](https://github.com/EthanPeters96/FlavorWave)
 3. Click the Fork button in the top right corner.
 
 #### How to Clone
@@ -114,7 +136,7 @@ To fork the repository:
 To clone the repository:
 
 1. Log in (or sign up) to GitHub.
-2. Go to the repository for this project, [#](#)
+2. Go to the repository for this project, [FlavorWave](https://github.com/EthanPeters96/FlavorWave)
 3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
@@ -138,9 +160,9 @@ To clone the repository:
 
 The site was also tested using dev tools on Google Chrome for responsiveness
 
-### Compatability
+### Compatibility
 
-[Google Chrome](https;//google.co.uk) Manually tested on google chrome for functionality , appearance and responsiveness. All features passed.
+Tested on [Google Chrome](https://www.google.co.uk/) for functionality , appearance and responsiveness. All features passed.
 
 ### Validator
 
@@ -162,4 +184,4 @@ All images are sourced from [Usplash](https://unsplash.com/)
 
 I'd like to give thanks to Graeme my mentor for the support he has given me throughout my project here is a [link](https://github.com/G-Taylor) to his github.
 
-I'd also like to thank my tutor Jonathan from Nescot
+I'd also like to thank my tutor Jonathan from Nescot.
