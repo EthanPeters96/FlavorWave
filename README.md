@@ -30,6 +30,40 @@ FlavorWave is a online recipe page that is focused towards young adults who are 
 - I want to easily navigate to my favourite recipes.
 - I want to keep up to date with what new social media they post.
 
+## Design
+
+### Colour Scheme
+
+I used the site [coolors](https://coolors.co/palette/ccd5ae-e9edc9-fefae0-faedcd-d4a373) for the color scheme, I think these colors complement the purpose of the site well.
+
+### Imagery
+
+I plan on using high quality images of food to compliment the site, all my images are sourced from [unsplash](https://unsplash.com/images/stock).
+
+### Wireframes
+
+Add the images or links for your wireframes here.
+
+I used [Balsamiq](https://balsamiq.com/) for my wireframes.
+
+### Favicon
+
+I used [Favicon](https://favicon.io/) to create my favicon
+
+## Features
+
+The website is comprised of four pages, all are accessible from the navigation menu (home page, recipes page, about page & contact page).
+
+#### All Pages on the website have:
+
+- A responsive navigation bar at the top which allows the user to navigate through the site. To the left of the navigation bar is the text FlavorWave. To the right of the navigation bar are the links to the websites pages (home page, recipes page, about page & contact page). When viewing with mobile devices the navigation links change to a burger toggler. This was implemented to give the site a clean look and to promote a good user experience, as users are used to seeing the burger icon when on mobile devices to navigate a site.
+
+- A footer which contains social media icon links to instagram and facebook. Icons were used to keep the footer clean and because they are universally recognisable.
+
+### General features on each page
+
+Each page have the same header and footer as well and theme to complete.
+
 #### Home Page
 
 ![FlavorWave Home page](/assets/screenshots/home-page.jpg)
@@ -53,36 +87,6 @@ FlavorWave is a online recipe page that is focused towards young adults who are 
 #### Tacos Page
 
 ![FlavorWave Tacos page](/assets/screenshots/tacos-page.jpg)
-
-## Design
-
-### Colour Scheme
-
-I used the site [coolors](https://coolors.co/palette/ccd5ae-e9edc9-fefae0-faedcd-d4a373) for the color scheme, I think these colors complement the purpose of the site well.
-
-### Imagery
-
-I plan on using high quality images of food to compliment the site, all my images are sourced from [unsplash](https://unsplash.com/images/stock).
-
-### Wireframes
-
-Add the images or links for your wireframes here.
-
-I used [Balsamiq](https://balsamiq.com/) for my wireframes.
-
-## Features
-
-The website is comprised of four pages, all are accessible from the navigation menu (home page, recipes page, about page & contact page).
-
-#### All Pages on the website have:
-
-- A responsive navigation bar at the top which allows the user to navigate through the site. To the left of the navigation bar is the text FlavorWave. To the right of the navigation bar are the links to the websites pages (home page, recipes page, about page & contact page). When viewing with mobile devices the navigation links change to a burger toggler. This was implemented to give the site a clean look and to promote a good user experience, as users are used to seeing the burger icon when on mobile devices to navigate a site.
-
-- A footer which contains social media icon links to instagram and facebook. Icons were used to keep the footer clean and because they are universally recognisable.
-
-### General features on each page
-
-Each page have the same header and footer as well and theme to complete.
 
 ## Technologies Used
 
@@ -145,20 +149,48 @@ To clone the repository:
 
 ### Manual Testing
 
-| Feature                      | Action                          | Expected result                                | Tested | Passed | Comments |
-| ---------------------------- | ------------------------------- | ---------------------------------------------- | ------ | ------ | -------- |
-| Navbar                       |                                 |                                                |        |        |          |
-| Home                         | Click on the "Home" link        | The user is redirected to the main page        | Yes    | Yes    | -        |
-| View Recipe                  | Click on the "View Recipe" link | The user is redirected to the view recipe page | Yes    | Yes    | -        |
-| Recipes                      | Click on the "Recipes" link     | The user is redirected to the recipes page     | Yes    | Yes    | -        |
-| About                        | Click on the "About" link       | The user is redirected to the about page       | Yes    | Yes    | -        |
-| Contact                      | Click on the "Contact" link     | The user is redirected to the contact page     | Yes    | Yes    | -        |
-| Footer                       |                                 |                                                |        |        |          |
-| Instagram icon in the footer | Click on the Instagram icon     | The user is redirected to the Instagram page   | Yes    | Yes    | -        |
-| Facebook icon in the footer  | Click on the Facebook icon      | The user is redirected to the Facebook page    | Yes    | Yes    | -        |
-|                              |
+| Feature                      | Action                             | Expected result                              | Tested | Passed | Comments |
+| ---------------------------- | ---------------------------------- | -------------------------------------------- | ------ | ------ | -------- |
+| Navbar                       |                                    |                                              |        |        |          |
+| Home                         | Click on the "Home" link           | The user is redirected to the main page      | Yes    | Yes    | -        |
+| Recipes                      | Click on the "Recipes" link        | The user is redirected to the recipes page   | Yes    | Yes    | -        |
+| About                        | Click on the "About" link          | The user is redirected to the about page     | Yes    | Yes    | -        |
+| Contact                      | Click on the "Contact" link        | The user is redirected to the contact page   | Yes    | Yes    | -        |
+| Footer                       |                                    |                                              |        |        |          |
+| Instagram icon in the footer | Click on the "Instagram" icon      | The user is redirected to the Instagram page | Yes    | Yes    | -        |
+| Facebook icon in the footer  | Click on the "Facebook" icon       | The user is redirected to the Facebook page  | Yes    | Yes    | -        |
+| Recipes Page                 |                                    |                                              |        |        |          |
+| View Recipes                 | Click on the "View recipes" button | The user is redirected to the recipe page    | Yes    | Yes    | -        |
 
 The site was also tested using dev tools on Google Chrome for responsiveness
+
+### LightHouse
+
+I have tested my website using lighthouse
+
+#### Home Page
+
+![Home Page](/assets/screenshots/home-lighthouse.png)
+
+#### Recipes Page
+
+![Recipes](/assets/screenshots/recipes-lighthouse.png)
+
+#### About Page
+
+![About](/assets/screenshots/about-lighthouse.png)
+
+#### Contact Page
+
+![Contact](/assets/screenshots/contact-lighthouse.png)
+
+#### Tacos Page
+
+![Tacos](/assets/screenshots/tacos-lighthouse.png)
+
+#### Carbonara Page
+
+![Carbonara](/assets/screenshots/carbonara-lighthouse.png)
 
 ### Compatibility
 
@@ -171,10 +203,6 @@ Tested on [Google Chrome](https://www.google.co.uk/) for functionality , appeara
 I have used previous projects to help with this project. First being UCD-resume to help build a form using bootstrap
 
 I also referred to bootstrap docs to learn new ways to style my page.
-
-### Content
-
-Who wrote the content for the website? Was it yourself - or have you made the site for someone and they specified what the site was to say? This is the best place to put this information.
 
 ###  Media
 
