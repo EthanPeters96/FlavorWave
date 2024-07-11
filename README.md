@@ -8,27 +8,27 @@ Welcome to FlavorWave, the ultimate recipe hub for young adults! Discover easy, 
 
 ### Inital Discussion
 
-FlavorWave is a online recipe page that is focused towards young adults who are looking to step up there cooking game from home and create easy yet tasty meals. without breaking a sweat.
+FlavorWave is a online recipe page that is focused towards young adults who are looking to step up there cooking game from home and create easy yet tasty meals, without breaking a sweat.
 
 ### User Stories
 
 #### Client Goals
 
-- To be able to view the site on a range of device sizes.
+- To be able to view the site on a range of devices.
 - To make it easy for users to find and follow recipes.
-- To allow people to be able to contact FlavorWave to ask further questions or with cooking recommendations etc.
+- To allow people to contact FlavorWave to ask further questions or suggest cooking recommendations etc.
 
 #### First Time User Goals
 
 - I want to find out what FlavorWave is about and what i can do.
 - I want to be able to navigate the site easily.
-- I want to see all there social media links.
-- I want to be able to view site and recipes on any device im using.
+- I want to see all the social media links.
+- I want to be able to view the site and recipes on any device I am using.
 
 #### Returning User Goals
 
 - I want to easily navigate to my favourite recipes.
-- I want to keep up to date with what new social media they post.
+- I want to keep up to date with any new social media they post.
 
 ## Design
 
@@ -38,31 +38,50 @@ I used the site [coolors](https://coolors.co/palette/ccd5ae-e9edc9-fefae0-faedcd
 
 ### Imagery
 
-I plan on using high quality images of food to compliment the site, all my images are sourced from [unsplash](https://unsplash.com/images/stock).
-
-### Wireframes
-
-Add the images or links for your wireframes here.
-
-I used [Balsamiq](https://balsamiq.com/) for my wireframes.
+I have used high quality images of food to compliment the site, all my images are sourced from [unsplash](https://unsplash.com/images/stock).
 
 ### Favicon
 
-I used [Favicon](https://favicon.io/) to create my favicon
+I used [Favicon](https://favicon.io/) to create my favicon.
+
+### Wireframes
+
+I initially started drawing my wireframes and quickly realized that i was over complicating them.  
+I then took a simpler approach to the remaining wireframes.
+
+I used [Balsamiq](https://balsamiq.com/) for my wireframes.
+
+#### Home Page
+
+![Home](/assets/images/Flavour%20Wave%20Home%20.webp)
+
+#### Recipes Page
+
+![Recipes](/assets/images/Flavour%20Wave%20Recipes%20.webp)
+
+#### About Page
+
+![About](/assets/images/Flavour%20Wave%20About%20.webp)
+
+#### Contact Page
+
+![Contact](/assets/images/Flavour%20Wave%20Contact%20.webp)
 
 ## Features
 
-The website is comprised of four pages, all are accessible from the navigation menu (home page, recipes page, about page & contact page).
+The website is comprised of four main pages, all are accessible from the navigation menu (home page, recipes page, about page & contact page).  
+And two secondary pages. (tacos page & carbonara page).  
+Lastly two exta pages. (404 page & thank-you page).
 
 #### All Pages on the website have:
 
-- A responsive navigation bar at the top which allows the user to navigate through the site. To the left of the navigation bar is the text FlavorWave. To the right of the navigation bar are the links to the websites pages (home page, recipes page, about page & contact page). When viewing with mobile devices the navigation links change to a burger toggler. This was implemented to give the site a clean look and to promote a good user experience, as users are used to seeing the burger icon when on mobile devices to navigate a site.
+- A responsive navigation bar at the top which allows the user to navigate through the site. To the left of the navigation bar is the text FlavorWave. To the right of the navigation bar are the links to the website pages (home page, recipes page, about page & contact page). When viewing on mobile devices the navigation links change to a burger toggler. This was implemented to give the site a clean look and to promote a good user experience, as users are used to seeing the burger icon when navigating a site on a mobile device.
 
-- A footer which contains social media icon links to instagram and facebook. Icons were used to keep the footer clean and because they are universally recognisable.
+- A footer which contains social media icons links to instagram and facebook. Icons were used to keep the footer clean and because they are universally recognisable.
 
 ### General features on each page
 
-Each page have the same header and footer as well and theme to complete.
+Each page has the same header and footer as well as theme to complete.
 
 #### Home Page
 
@@ -102,11 +121,11 @@ Git - For version control.
 
 Github - To save and store the files for the website.
 
-Bootstrap Version 4.6 - The framework for the website. Code for the navigation bar, carousel, cards and form were used and modified. Additional CSS styling was also implemented in style.css.
+Bootstrap Version 4.6 - The framework for the website. Code for the navigation bar, cards and form were used and modified. Additional CSS styling was also implemented in style.css.
 
-Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+Google Dev Tools - To troubleshoot and test features, and solve issues with responsiveness and styling.
 
-Fontawesome - for icons
+Fontawesome - For icons.
 
 ## Deployment & Local Development
 
@@ -162,11 +181,13 @@ To clone the repository:
 | Thank You page               |                                    |                                              |        |        |          |
 | Thank You Message            | Automatic redirect                 | The user is redirected automatically         | Yes    | Yes    | -        |
 
-The site was also tested using dev tools on Google Chrome for responsiveness
+The site was also tested using dev tools on Google Chrome for responsiveness.
+
+Favicon does not work on live site however does work on local deployment.
 
 ### LightHouse
 
-I have tested my website using lighthouse
+I have tested my website using lighthouse.
 
 #### Home Page
 
@@ -202,13 +223,17 @@ I have used [W3C](https://www.w3.org/) to validate my code.
 
 ### HTML
 
+![HTML](/assets/screenshots/index-wc3.png)
+
+Tested all pages.
+
 ### CSS
 
 ![CSS](/assets/screenshots/css-val.png)
 
 ## Credits
 
-I have used previous projects to help with this project. First being UCD-resume to help build a form using bootstrap
+I have used previous projects to help with this project. First being UCD-resume to help build a form using bootstrap.
 
 I also referred to bootstrap docs to learn new ways to style my page.
 
@@ -216,7 +241,7 @@ I followed some guidance from my mentor and added a thank you page.
 
 ###  Media
 
-All images are sourced from [Usplash](https://unsplash.com/)
+All images are sourced from [Usplash](https://unsplash.com/).
 
 ###  Acknowledgments
 
