@@ -2,7 +2,7 @@
 
 Welcome to FlavorWave, the ultimate recipe hub for young adults! Discover easy, delicious recipes that make cooking fun and accessible. From quick weeknight dinners to impressive dishes for special occasions, FlavorWave has something for everyone. Join our community and start your culinary adventure today!
 
-## Add a link to the live site here
+### Link to live site : [FlavorWave](https://ethanpeters96.github.io/FlavorWave/)
 
 ## User Experience (UX)
 
@@ -112,7 +112,7 @@ Fontawesome - for icons
 
 ### Deployment
 
-The site is deployed using GitHub Pages - [#](#).
+The site is deployed using GitHub Pages - [FlavorWave](https://ethanpeters96.github.io/FlavorWave/)
 
 To Deploy the site using GitHub Pages:
 
@@ -124,8 +124,6 @@ To Deploy the site using GitHub Pages:
 6. The site has now been deployed, please note that this process may take a few minutes before the site goes live.
 
 ### Local Development
-
-The local development section gives instructions on how someone else could make a copy of your project to play with on their local machine. This section will get more complex in the later projects, and can be a great reference to yourself if you forget how to do this.
 
 #### How to Fork
 
@@ -161,6 +159,8 @@ To clone the repository:
 | Facebook icon in the footer  | Click on the "Facebook" icon       | The user is redirected to the Facebook page  | Yes    | Yes    | -        |
 | Recipes Page                 |                                    |                                              |        |        |          |
 | View Recipes                 | Click on the "View recipes" button | The user is redirected to the recipe page    | Yes    | Yes    | -        |
+| Thank You page               |                                    |                                              |        |        |          |
+| Thank You Message            | Automatic redirect                 | The user is redirected automatically         | Yes    | Yes    | -        |
 
 The site was also tested using dev tools on Google Chrome for responsiveness
 
@@ -198,11 +198,21 @@ Tested on [Google Chrome](https://www.google.co.uk/) for functionality , appeara
 
 ### Validator
 
+I have used [W3C](https://www.w3.org/) to validate my code.
+
+### HTML
+
+### CSS
+
+![CSS](/assets/screenshots/css-val.png)
+
 ## Credits
 
 I have used previous projects to help with this project. First being UCD-resume to help build a form using bootstrap
 
 I also referred to bootstrap docs to learn new ways to style my page.
+
+I followed some guidance from my mentor and added a thank you page.
 
 ###  Media
 

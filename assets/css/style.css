@@ -105,7 +105,7 @@ footer i {
   color: black;
 }
 
-a[type="button"] {
+#red-btn {
   margin-top: 15px;
   margin-bottom: 15px;
   background-color: #e07a5f;
@@ -166,4 +166,10 @@ i {
 
 i:hover {
   color: #f4f1de;
+}
+
+.thank-you {
+  text-align: center;
+  font-size: larger;
+  font-weight: bolder;
 }
