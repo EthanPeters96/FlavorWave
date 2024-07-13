@@ -185,6 +185,8 @@ The site was also tested using dev tools on Google Chrome for responsiveness.
 
 Favicon does not work on live site however does work on local deployment.
 
+I was unable to test 404 page.
+
 ### LightHouse
 
 I have tested my website using lighthouse.

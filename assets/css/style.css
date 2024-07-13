@@ -63,7 +63,7 @@ footer span {
 
 footer i {
   float: right;
-  margin: none;
+  margin: 0;
 }
 
 .team-images {
@@ -106,8 +106,20 @@ footer i {
 }
 
 #red-btn {
-  margin-top: 15px;
-  margin-bottom: 15px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  background-color: #e07a5f;
+  color: #fafafa;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 300;
+  align-items: center;
+}
+
+#red-btn1 {
+  margin-top: 40px;
+  margin-bottom: 10px;
   background-color: #e07a5f;
   color: #fafafa;
   border: none;
@@ -145,7 +157,8 @@ button[type="submit"] {
 .card-deck {
   margin-bottom: 30px !important;
 }
-#form-label {
+
+.form-label {
   color: #e07a5f;
   font-size: large;
   font-weight: bolder;
