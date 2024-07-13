@@ -225,7 +225,7 @@ I have used [W3C](https://www.w3.org/) to validate my code.
 
 ### HTML
 
-![HTML](/assets/screenshots/index-wc3.png)
+![HTML](/assets/screenshots/html-w3c.png)
 
 Tested all pages.
 
