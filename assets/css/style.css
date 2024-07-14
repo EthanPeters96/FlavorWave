@@ -36,6 +36,26 @@ h6 {
 .names-info {
   color: #000000;
 }
+
+i:hover {
+  color: #f4f1de;
+}
+
+.navbar-brand:hover {
+  color: #f4f1de !important;
+}
+
+.nav-link:hover {
+  color: #f4f1de !important;
+}
+#red-btn:hover {
+  background-color: #666565 !important;
+}
+
+#red-btn1:hover {
+  background-color: #666565 !important;
+}
+
 /******************* Alignment *******************/
 
 .mt-5 {
@@ -82,6 +102,15 @@ footer i {
 .adjust {
   width: 55%;
   height: 55%;
+}
+
+.card-deck {
+  margin-bottom: 30px !important;
+}
+
+.style {
+  text-align: center !important;
+  margin-top: 45px;
 }
 
 /******************* Styles *******************/
@@ -146,27 +175,10 @@ button[type="submit"] {
   font-weight: bolder !important;
 }
 
-.navbar-brand:hover {
-  color: #f4f1de !important;
-}
-
-.nav-link:hover {
-  color: #f4f1de !important;
-}
-
-.card-deck {
-  margin-bottom: 30px !important;
-}
-
 .form-label {
   color: #e07a5f;
   font-size: large;
   font-weight: bolder;
-}
-
-.style {
-  text-align: center !important;
-  margin-top: 45px;
 }
 
 i {
@@ -175,10 +187,6 @@ i {
   height: 10px;
   font-size: 20px;
   padding-bottom: 40px;
-}
-
-i:hover {
-  color: #f4f1de;
 }
 
 .thank-you {
