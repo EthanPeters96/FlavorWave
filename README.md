@@ -6,7 +6,7 @@ Welcome to FlavorWave, the ultimate recipe hub for young adults! Discover easy, 
 
 ## User Experience (UX)
 
-### Inital Discussion
+### Initial Discussion
 
 FlavorWave is a online recipe page that is focused towards young adults who are looking to step up there cooking game from home and create easy yet tasty meals, without breaking a sweat.
 
@@ -71,13 +71,13 @@ I used [Balsamiq](https://balsamiq.com/) for my wireframes.
 
 The website is comprised of four main pages, all are accessible from the navigation menu (home page, recipes page, about page & contact page).  
 And two secondary pages. (tacos page & carbonara page).  
-Lastly two exta pages. (404 page & thank-you page).
+Lastly two extra pages. (404 page & thank-you page).
 
 #### All Pages on the website have:
 
 - A responsive navigation bar at the top which allows the user to navigate through the site. To the left of the navigation bar is the text FlavorWave. To the right of the navigation bar are the links to the website pages (home page, recipes page, about page & contact page). When viewing on mobile devices the navigation links change to a burger toggler. This was implemented to give the site a clean look and to promote a good user experience, as users are used to seeing the burger icon when navigating a site on a mobile device.
 
-- A footer which contains social media icons links to instagram and facebook. Icons were used to keep the footer clean and because they are universally recognisable.
+- A footer which contains social media icons links to Instagram and Facebook. Icons were used to keep the footer clean and because they are universally recognisable.
 
 ### General features on each page
 
@@ -123,7 +123,7 @@ Github - To save and store the files for the website.
 
 Bootstrap Version 4.6 - The framework for the website. Code for the navigation bar, cards and form were used and modified. Additional CSS styling was also implemented in style.css.
 
-Google Dev Tools - To troubleshoot and test features, and solve issues with responsiveness and styling.
+Google Dev Tools - To troubleshoot and test features and solve issues with responsiveness and styling.
 
 Fontawesome - For icons.
 
